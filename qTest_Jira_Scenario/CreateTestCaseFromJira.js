@@ -8,7 +8,7 @@ exports.handler = function ({ event: body, constants, triggers }, context, callb
 
   let standardHeaders = {
     'Content-Type': 'application/json',
-    'Authorization': `bearer ${constants.QTEST_TOKEN}`
+    'Authorization': `bearer ${constants.qTest_Token}`
   }
 
   function emitEvent(name, payload) {

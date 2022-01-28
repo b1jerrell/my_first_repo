@@ -26,7 +26,7 @@
       },
       {
          "id":"constant-5",
-         "name":"QTEST_TOKEN",
+         "name":"qTest_Token",
          "hidden":false,
          "value":""
       },
@@ -38,7 +38,7 @@
       },
       {
          "id":"constant-7",
-         "name":"SCENARIO_PROJECT_ID",
+         "name":"Scenario_Project_ID",
          "hidden":false,
          "value":""
       },

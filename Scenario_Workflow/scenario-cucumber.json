@@ -1,0 +1,47 @@
+         "triggerId":"trigger-4",
+         "actionIds":[
+            "action-5"
+         ],
+         "tags":[
+            
+         ]
+      },
+      {
+         "id":"rule-8",
+         "name":"UpdateQTestAndLinkScenarioRequirements",
+         "active":true,
+         "triggerId":"trigger-3",
+         "actionIds":[
+            "action-2",
+            "action-4"
+         ],
+         "tags":[
+            
+         ]
+      },
+      {
+         "id":"rule-9",
+         "name":"LinkScenarioRequirements",
+         "active":true,
+         "triggerId":"trigger-2",
+         "actionIds":[
+            "action-3"
+         ],
+         "tags":[
+            
+         ]
+      },
+      {
+         "id":"rule-10",
+         "name":"ChatOpsEvent",
+         "active":true,
+         "triggerId":"trigger-1",
+         "actionIds":[
+            "action-1"
+         ],
+         "tags":[
+            
+         ]
+      }
+   ]
+}

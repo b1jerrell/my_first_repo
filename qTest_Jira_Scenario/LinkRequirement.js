@@ -17,7 +17,7 @@ exports.handler = function ({ event: body, constants, triggers }, context, callb
 
   var standardHeaders = {
     'Content-Type': 'application/json',
-    'Authorization': `bearer ${constants.QTEST_TOKEN}`
+    'Authorization': `bearer ${constants.QTEST_BEARER_TOKEN}`
   }
 
   var reqopts = getReqBody(body.issueKey);

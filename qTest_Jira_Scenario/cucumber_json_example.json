@@ -33,7 +33,7 @@
             "arguments": [],
             "keyword": "Then ",
             "line": 9,
-            "name": "I search for QMetry",
+            "name": "I search for qTest",
             "match": {
               "location": "Projects/nodejs-cucumber-sample-master/node_modules/cucumber/lib/support_code_library_builder/define_helpers.js:135"
             },
